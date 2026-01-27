@@ -9,22 +9,23 @@ title: "Accueil"
 
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+    <h1>The universe of The Last of Us</h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
 
 ---
 
-# L'univers de _The Last of Us_
+# The universe of _The Last of Us_
                                 
 ## The Last of Us
 
-### La franchise _The Last of Us_ 
+### The_The Last of Us_franchise 
 
-*The Last of Us* est une franchise de jeux vidéo se composant de deux volumes; *The Last of Us* sorti en 2013 et sa suite directe *The Last of Us Part II* sorti en 2020.
+*The Last of Us* is a video game franchise composed of two installments: *The Last of Us* released in 2013, and its direct sequel, *The Last of Us Part II* released in 2020.
 
-Ces jeux vidéo sont tous deux reconnus, ce qui explique la possibilité de sortir un second volume. Cet univers a récemment été d'autant plus popularisé par l'adaptation en série sortie en 2023 sur HBO.
+Both games were widely acclaimed, which explains the release of a second installment. This universe has recently gained even more popularity thanks to its television adaptation, which aired in 2023 on HBO.
 
-#### Résumé générale
-L'univers de *The Last of Us* prend place dans un monde post-apocalyptique suivant l'épidémie d'un virus appelé le cordyceps, ce cordyceps est un champignon infectant les humains, ces derniers se transforment et deviennent alors des infectés (~~et non pas des zombies qui sont des mort-vivants~~). Situés au sein de cet univers sanglant, nos protagonistes vont devoir se démener pour survivre et retrouver foi en l'humanité en trouvant un remède. Les thèmes abordés sont loins d'être centrés autour des infectés et de cet univers post-apocalyptique mais bien plus autour des relations humaines et de l'amour entre une petite fille et sa figure paternelle, ce qui en fait donc une oeuvre émouvante et humaine. 
+#### General Summary
+The world of The Last of Us is set in a post-apocalyptic environment following the outbreak of a virus called cordyceps. This cordyceps is a fungus that infects humans, who then transform and become “infected” (and not zombies, which are undead beings).
+Set within this violent universe, the protagonists must struggle to survive and to regain faith in humanity by searching for a cure. The themes explored are far from being centered solely on the infected and the post-apocalyptic setting; instead, they focus primarily on human relationships and on the love between a young girl and her paternal figure, which makes this work deeply moving and profoundly human.
