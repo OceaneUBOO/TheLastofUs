@@ -4,27 +4,27 @@ title: "Accueil"
 ---
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+    <h1>The universe of The Last of Us </h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
 
 ---
 
-# Scènes favorites
+# Favorite Scenes
 
-## Le jeu vidéo _The Last of Us Part II_ est mon préféré et ce, de bien loin, ainsi, la plupart des scènes montrées ci-dessous seront extraites de ce deuxième volume.
+## The video game The Last of Us Part II is by far my favorite, and as a result, most of the scenes shown below are taken from this second installment.
 
-1. Ma scène préférée, tous volumes confondus, est l'anniversaire d'Ellie fêté dans un musée où pouvait être observés des fossiles de dinosaures mais également l'histoire spatiale, deux thèmes qu'adorent Ellie.
+1. My favorite scene of all installments combined is Ellie’s birthday, celebrated in a museum where dinosaur fossils can be seen, as well as exhibits related to space exploration — two themes that Ellie deeply loves.
 
-![Musée](assets/zoo.jpg)
+![Musée](../assets/zoo.jpg)
 
-![Space](assets/space.jpg)
+![Space](../assets/space.jpg)
 
-2. Egalement dans ce second volume, une de mes scènes préférées est une discussion émouvante entre Ellie et Joel.
+2. Also in this second installment, one of my favorite scenes is a moving conversation between Ellie and Joel.
 
-![Convo](assets/conversation.jpg)
+![Convo](../assets/conversation.jpg)
 
-3. Sans surprise, également issue de *The Last of Us Part II* : Ellie qui joue de la guitare à Dina, sa petite-amie.
+3. Unsurprisingly, also taken from The Last of Us Part II: Ellie playing the guitar for her girlfriend, Dina.
 
-![Guitare](assets/guitare.jpg)
+![Guitare](../assets/guitare.jpg)
