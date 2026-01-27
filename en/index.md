@@ -2,9 +2,9 @@
 layout: default
 title: "Accueil"
 ---
-<div style="position: fixed; top: 0; left: 0; width: 130px; height: 100vh; background-image: url('thelastofus1.jpg');">
+<div style="position: fixed; top: 0; left: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus1.jpg);">
 </div>
-<div style="position: fixed; top: 0; right: 0; width: 130px; height: 100vh; background-image: url('thelastofus2.jpg');">
+<div style="position: fixed; top: 0; right: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus2.jpg);">
 </div>
 
 
@@ -20,7 +20,7 @@ title: "Accueil"
                                 
 ## The Last of Us
 
-### The_The Last of Us_franchise 
+### The The Last of Us franchise 
 
 *The Last of Us* is a video game franchise composed of two installments: *The Last of Us* released in 2013, and its direct sequel, *The Last of Us Part II* released in 2020.
 
