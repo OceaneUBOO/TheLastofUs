@@ -14,7 +14,7 @@ title: "Accueil"
 
 # The Last of Us : la série
 
-![Road](assets/road.jpg)
+![Road](../assets/road.jpg)
 
 ## Résumé
 La série comporte actuellement une seule saison de 9 épisodes adaptant le premier jeu vidéo de 2013. Une seconde saison est en tournage et adaptera le second volume dans la saison 2 et 3. Cette première saison reste assez fidèle au jeu. Nous suivons également Joel Miller, contrebandier, qui doit accompagner Ellie au travers des Etats-Unis.
