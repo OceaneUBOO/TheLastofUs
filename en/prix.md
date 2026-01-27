@@ -4,44 +4,42 @@ title: "Accueil"
 ---
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+    <h1>The universe of The Last of Us </h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
 
 ---
 
-# Prix gagnés 🏆
-Cet univers, ludique ou cinématographique, a d'autant plus de reconnaissance de par ses prix gagnés.
+# Awards 🏆
+This universe, whether in video game or cinematic form, has gained even greater recognition through the many awards it has received.
 
-## Récompenses jeux vidéo 🎮
-
-| **Titre**                          | **Année** | **Récompenses** 🏆                                           |
-|------------------------------------|-----------|--------------------------------------------------------------|
-| **The Last of Us**                 | 2013      | - Jeu de l'Année (DICE Awards)                              |
-|                                    |           | - Meilleur Jeu (Golden Joystick Awards)                     |
-|                                    |           | - Meilleur Jeu d'Action/Aventure (BAFTA Games Awards)       |
-|                                    |           | - Meilleur Scénario (BAFTA Games Awards)                    |
-|                                    |           | - Meilleur Jeu d'Action/Aventure (The Game Awards)          |
-|                                    |           | - Meilleure Direction Artistique (The Game Awards)          |
-|                                    |           | - Meilleur Jeu de l'Année (VGX 2013)                        |
-|                                    |           | - Prix de l'Innovation (DICE Awards)                         |
-| **The Last of Us Part II**         | 2020      | - Jeu de l'Année (The Game Awards)                          |
-|                                    |           | - Meilleur Jeu (Golden Joystick Awards)                     |
-|                                    |           | - Meilleure Narration (The Game Awards)                     |
-|                                    |           | - Meilleure Direction Artistique (The Game Awards)          |
-|                                    |           | - Meilleure Performance (Laura Bailey, The Game Awards)     |
-|                                    |           | - Meilleur Jeu d'Action/Aventure (BAFTA Games Awards)       |
-|                                    |           | - Prix du Public (DICE Awards)                              |
+| **Title**                          | **Year** | **Awards** 🏆                                             |
+|----------------------------------|----------|----------------------------------------------------------|
+| **The Last of Us**               | 2013     | - Game of the Year (DICE Awards)                         |
+|                                  |          | - Best Game (Golden Joystick Awards)                    |
+|                                  |          | - Best Action/Adventure Game (BAFTA Games Awards)       |
+|                                  |          | - Best Story (BAFTA Games Awards)                       |
+|                                  |          | - Best Action/Adventure Game (The Game Awards)          |
+|                                  |          | - Best Art Direction (The Game Awards)                  |
+|                                  |          | - Game of the Year (VGX 2013)                            |
+|                                  |          | - Innovation Award (DICE Awards)                        |
+| **The Last of Us Part II**       | 2020     | - Game of the Year (The Game Awards)                    |
+|                                  |          | - Best Game (Golden Joystick Awards)                    |
+|                                  |          | - Best Narrative (The Game Awards)                      |
+|                                  |          | - Best Art Direction (The Game Awards)                  |
+|                                  |          | - Best Performance (Laura Bailey, The Game Awards)     |
+|                                  |          | - Best Action/Adventure Game (BAFTA Games Awards)       |
+|                                  |          | - Players’ Choice Award (DICE Awards)                   |
 
 
-## Récompense série 🎬
+## TV Series Awards 🎬
 
-| **Titre**                          | **Année** | **Récompenses**                                               |
-|------------------------------------|-----------|--------------------------------------------------------------|
-| **The Last of Us** (série)        | 2023      | - Meilleure Série (Critics' Choice Super Awards)            |
-|                                    |           | - Meilleure Adaptation (Producers Guild of America Awards)  |
-|                                    |           | - Meilleure Performance dans un Second Rôle (Murray Bartlett, Critics' Choice Television Awards) |
-|                                    |           | - Prix de la Meilleure Série Dramatique (Satellite Awards)  |
-|                                    |           | - Meilleure Série Limitée ou Téléfilm (Primetime Emmy Awards) |
-|                                    |           | - Meilleur Acteur dans un Second Rôle (Murray Bartlett, Primetime Emmy Awards) |
+| **Title**                        | **Year** | **Awards**                                                     |
+|--------------------------------|----------|--------------------------------------------------------------|
+| **The Last of Us** (TV series) | 2023     | - Best Series (Critics' Choice Super Awards)                 |
+|                                |          | - Best Adaptation (Producers Guild of America Awards)       |
+|                                |          | - Best Supporting Performance (Murray Bartlett, Critics' Choice Television Awards) |
+|                                |          | - Best Drama Series Award (Satellite Awards)                |
+|                                |          | - Best Limited Series or TV Movie (Primetime Emmy Awards)   |
+|                                |          | - Best Supporting Actor (Murray Bartlett, Primetime Emmy Awards) |
