@@ -4,7 +4,7 @@ title: "Accueil"
 ---
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>The universe of The Last of Us </h1>
+    <h1>The universe of The Last of Us</h1>
 </div>
 
 [Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
