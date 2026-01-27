@@ -2,13 +2,15 @@
 layout: default
 title: "Accueil"
 ---
-<div style="position: fixed; top: 0; left: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus1.jpg);">
-</div>
-<div style="position: fixed; top: 0; right: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus2.jpg);">
-</div>
 
-<div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+<div style="position: fixed; top: 0; left: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus1.jpg);"></div>
+<div style="position: fixed; top: 0; right: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus2.jpg);"></div>
+
+<div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white; position: relative;">
+    <h1>L'univers de The Last of Us</h1>
+    <div style="position: absolute; top: 10px; right: 10px;">
+        <a href="../en/index.md" style="color: white; text-decoration: none; font-weight: bold;">EN</a>
+    </div>
 </div>
 
 [Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
