@@ -4,7 +4,7 @@ title: "Accueil"
 ---
 <div style="position: fixed; top: 0; left: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus1.jpg);">
 </div>
-<div style="position: fixed; top: 0; right: 0; width: 130px; height: 100vh; background-image: url('thelastofus2.jpg');">
+<div style="position: fixed; top: 0; right: 0; width: 130px; height: 100vh; background-image: url(../assets/thelastofus2.jpg);">
 </div>
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
