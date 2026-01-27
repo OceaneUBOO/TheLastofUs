@@ -4,26 +4,26 @@ title: "Accueil"
 ---
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+    <h1>The universe of The Last of Us </h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
 
 ---
 
-# _The Last of Us_ : les jeux vidéo
+# The Last of Us: The Video Games
 
-Le format originale de cet univers est le jeu vidéo. L'univers a été créé et travaillé par Neil Druckmann et le studio **Naughty Dog** afin d'être vécu et raconté en jeu immersif. 
+The original format of this universe is the video game. The world was created and developed by Neil Druckmann and the studio **Naughty Dog** in order to be experienced and told through an immersive game.
 
-![Girafe](assets/girafe.jpg)
+![Girafe](../assets/girafe.jpg)
 
 ## _The Last of Us_ (2013)
-Premier volume de cette franchise, nous suivons Joel Miller, un homme ayant tout perdu lors de l'apocalypse et étant maintenant devenu un contrebandier afin de survivre. 
-Il doit cette fois traverser les Etats-Unis afin de livrer sa marchandise. Une marchandise particulière, qui n'est autre qu'une mystérieuse jeune fille, Ellie Williams. Tous deux traversent ensembles les états et surmontent les épreuves s'élevant devant eux tout en se rapprochant afin d'établir un lien presque familial.
+The first installment of the franchise follows Joel Miller, a man who lost everything at the outbreak of the apocalypse and who has since become a smuggler in order to survive. He is tasked with crossing the United States to deliver his cargo — a very particular cargo, which turns out to be a mysterious young girl, Ellie Williams.
+Together, they travel across the country and overcome the trials that stand in their way, gradually growing closer and forming an almost familial bond.
 
->Ce premier volume est centré autour de l'amour et des relations humaines, notamment entre nos deux protagonistes.
+>This first installment is centered on love and human relationships, particularly between the two protagonists.
 
 ## _The Last of Us Part II_ (2020)
-Sans trop en dire, ce second volume est la suite directe du premier et suit cette fois une Ellie Williams adulte, deuteragoniste du premier volume. Cette dernière doit faire face à un nouvel ennemi et traverse le pays pour le retrouver. 
+Without revealing too much, this second installment is the direct sequel to the first and this time follows an adult Ellie Williams, who was the deuteragonist of the first game. She must face a new enemy and travels across the country in order to find them.
 
->Certaines personnes estiment que ce second volume est centré autour du cycle de la vengeance mais j'estime personnellement qu'il est centré autour des regrets et de l'acceptation de ces derniers.
+Some people believe that this second installment is centered on the cycle of revenge, but I personally consider it to focus on regret and on the acceptance of those regrets.
