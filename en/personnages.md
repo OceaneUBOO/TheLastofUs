@@ -4,44 +4,41 @@ title: "Accueil"
 ---
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+    <h1>The universe of The Last of Us </h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
 
 ---
 
-# Les personnages: Série VS Jeux vidéo
+# Characters: TV Series vs. Video Games
 
-## Différences physiques entre les personnages
+## Physical Differences Between the Characters
 
-### Liste de personnages:
+### List of Characters:
 
-Tous les personnages suivants sont issus de *The Last of Us (2013)* car les personnages de *The Last of Us Part II* n'ont pas encore été adapté. Vous pouvez donc voir un comparatif visuel entre **la série HBO** *The Last of Us* (2023) et le **jeu vidéo** *The Last of Us Part I* (le remake modernisé et adapté aux appareils actuels de _The Last of Us_ (2013) )
+All of the following characters come from *The Last of Us (2013)* as the characters from *The Last of Us Part II* have not yet been adapted. You can therefore see a visual comparison between **la série HBO** *The Last of Us* (2023) and the **video game** *The Last of Us Part I* (the modernized remake of The Last of Us (2013), adapted for current platforms).
 
 ### __Joel Miller__
 
-![Joel](assets/joel.jpg)
+![Joel](../assets/joel.jpg)
 
 ### __Ellie Williams__
 
-![Ellie](assets/ellie.jpg)
+![Ellie](../assets/ellie.jpg)
 
 ### __Tess Servopoulos__
 
-![Tess](assets/tess.jpg)
+![Tess](../assets/tess.jpg)
 
 ### __Tommy Miller__
 
-![Tommy](assets/tommy.jpg)
+![Tommy](../assets/tommy.jpg)
 
 ### __Maria Miller__
 
-![Maria](assets/maria.jpg)
+![Maria](../assets/maria.jpg)
 
 ### __David__
 
-![David](assets/david.jpg)
-
-
-
+![David](../assets/david.jpg)
