@@ -9,7 +9,7 @@ title: "Accueil"
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white; position: relative;">
     <h1>L'univers de The Last of Us</h1>
     <div style="position: absolute; top: 10px; right: 10px;">
-        <a href="../en/index.md" style="color: white; text-decoration: none; font-weight: bold;">EN</a>
+        <a href="../en style="color: white; text-decoration: none; font-weight: bold;">EN</a>
     </div>
 </div>
 
