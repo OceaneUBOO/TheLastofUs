@@ -17,14 +17,14 @@ title: "Accueil"
 
 1. Ma scène préférée, tous volumes confondus, est l'anniversaire d'Ellie fêté dans un musée où pouvait être observés des fossiles de dinosaures mais également l'histoire spatiale, deux thèmes qu'adorent Ellie.
 
-![Musée](assets/zoo.jpg)
+![Musée](../assets/zoo.jpg)
 
-![Space](assets/space.jpg)
+![Space](../assets/space.jpg)
 
 2. Egalement dans ce second volume, une de mes scènes préférées est une discussion émouvante entre Ellie et Joel.
 
-![Convo](assets/conversation.jpg)
+![Convo](../assets/conversation.jpg)
 
 3. Sans surprise, également issue de *The Last of Us Part II* : Ellie qui joue de la guitare à Dina, sa petite-amie.
 
-![Guitare](assets/guitare.jpg)
+![Guitare](../assets/guitare.jpg)
