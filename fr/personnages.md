@@ -21,27 +21,27 @@ Tous les personnages suivants sont issus de *The Last of Us (2013)* car les pers
 
 ### __Joel Miller__
 
-![Joel](assets/joel.jpg)
+![Joel](../assets/joel.jpg)
 
 ### __Ellie Williams__
 
-![Ellie](assets/ellie.jpg)
+![Ellie](../assets/ellie.jpg)
 
 ### __Tess Servopoulos__
 
-![Tess](assets/tess.jpg)
+![Tess](../assets/tess.jpg)
 
 ### __Tommy Miller__
 
-![Tommy](assets/tommy.jpg)
+![Tommy](../assets/tommy.jpg)
 
 ### __Maria Miller__
 
-![Maria](assets/maria.jpg)
+![Maria](../assets/maria.jpg)
 
 ### __David__
 
-![David](assets/david.jpg)
+![David](../assets/david.jpg)
 
 
 
