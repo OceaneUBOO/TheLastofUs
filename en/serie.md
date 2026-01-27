@@ -4,32 +4,29 @@ title: "Accueil"
 ---
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
-    <h1>L'univers de The Last of Us </h1>
+    <h1>The universe of The Last of Us </h1>
 </div>
 
-[Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
+[Home](index.md) | [Video Games](jeuxvideo.md) | [TV Serie](serie.md) | [Characters](personnages.md) | [Scenes](scenes.md) | [Awards](prix.md)
+
 
 ---
 
 
-# The Last of Us : la série
+# The Last of Us: the TV serie
 
-![Road](assets/road.jpg)
+![Road](../assets/road.jpg)
 
-## Résumé
-La série comporte actuellement une seule saison de 9 épisodes adaptant le premier jeu vidéo de 2013. Une seconde saison est en tournage et adaptera le second volume dans la saison 2 et 3. Cette première saison reste assez fidèle au jeu. Nous suivons également Joel Miller, contrebandier, qui doit accompagner Ellie au travers des Etats-Unis.
+## Summary
+The series currently consists of a single season of nine episodes, adapting the first video game from 2013. A second season is in production and will adapt the second installment across seasons 2 and 3. This first season remains fairly faithful to the game. We also follow Joel Miller, a smuggler, who must escort Ellie across the United States.
 
-## Différences
-Cependant certaines différences existent et diffèrent donc de la version originale, parfois par explicitation et envie du créateur d'étendre son univers, parfois par facilité visuelle.
+## Differences
+However, some differences exist compared to the original version, sometimes due to the creators’ desire to expand the universe, and sometimes for visual simplicity.
 
-- Episode 3 : L'épisode 3 est sûrement la plus grande différence, elle se quantifie en 1 épisode. Cette romance n'est qu'implicite dans le jeu vidéo, Frank n'est plus et laisse une lettre à Bill.
-Les créateurs, et notamment Neil Druckmann qui est également créateur du jeu vidéo, ont profité du format afin d'expliciter une relation qui n'est qu'implicite dans le jeu vidéo, rajoutant ainsi détails à leur univers qui est déjà très vaste.
-Cet épisode a été le plus surprenant et est celui qui m'a le plus touché de par sa surprise.
+- Episode 3: Episode 3 is perhaps the most significant difference, condensed into a single episode. The romance is only implied in the video game; Frank is no longer present and leaves a letter for Bill. The creators, particularly Neil Druckmann, who is also the creator of the video game, took advantage of the format to make a relationship explicit that was only implied in the game, adding more depth to an already expansive universe. This episode was the most surprising and the one that moved me the most due to its unexpectedness.
 
-- Les infectés : Dans le jeu vidéo *The Last of Us*, les infectés sont classifiés par catégories, ils sont infectés par des champignons et plus ils sont vieux et plus ils sont puissants et proéminents.
-Ils infectent leur environnement par le biais de spores, des particules aériennes infectant quiconque en respire. Dans la série, cette classification a été gardé mais pas le système de spores, ces derniers ont été remplacé par des vrilles se trouvant au sol et connectant les infectés entre eux.
-Ce changement détourne d'une facilité, les spores étant compliqué à retranscrire au visuel. Cependant, les spores représentent une part importante de certaines scènes du volume 2 qui ne sont pas encore adaptés en série à ce jour.
+- The Infected: In the video game The Last of Us, infected individuals are classified into categories; they are infected by fungi, and the older they are, the more powerful and prominent they become. They spread infection through spores, airborne particles that infect anyone who breathes them in. In the series, this classification has been maintained, but the spore system has been replaced by tendrils on the ground connecting the infected to one another. This change avoids a visual complication, as spores are difficult to depict on screen. However, spores play an important role in certain scenes of the second installment, which have not yet been adapted for the series.
 
- - Informations complémentaires : De façon similaire à l'explicitation de l'épisode 3, des informations supplémentaires ont été fournis sur les personnages tels que Joel Miller, la mère d'Ellie Williams, un personnage mystérieux et quasi-inexistant dans le jeu vidéo. Des informations scientifiques sont également ajoutées, souvent en guise d'introduction à certains épisodes. Comme lors du premier épisode; un scientifique parle du virus et de son danger s'il venait à exister. Une introduction qui permet de créer une tension chez le spectateur.
+ - Additional Information: Similarly to the explicit adaptation in Episode 3, additional background information has been provided about characters such as Joel Miller and Ellie Williams’ mother — a mysterious character who is nearly absent in the video game. Scientific information is also added, often as an introduction to certain episodes. For example, in the first episode, a scientist discusses the virus and the danger it would pose if it existed. This introduction helps create tension for the viewer.
 
   
