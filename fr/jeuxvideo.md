@@ -15,7 +15,7 @@ title: "Accueil"
 
 Le format originale de cet univers est le jeu vidéo. L'univers a été créé et travaillé par Neil Druckmann et le studio **Naughty Dog** afin d'être vécu et raconté en jeu immersif. 
 
-![Girafe](assets/girafe.jpg)
+![Girafe](../assets/girafe.jpg)
 
 ## _The Last of Us_ (2013)
 Premier volume de cette franchise, nous suivons Joel Miller, un homme ayant tout perdu lors de l'apocalypse et étant maintenant devenu un contrebandier afin de survivre. 
