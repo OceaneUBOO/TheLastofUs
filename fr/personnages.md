@@ -5,7 +5,8 @@ title: "Accueil"
 
 <div style="background-color: #8A9A5B; padding: 20px; text-align: center; color: white;">
     <h1>L'univers de The Last of Us </h1>
-</div>
+    <a href="/TheLastofUs/en/" style="color: white; text-decoration: none; font-weight: bold;">EN</a>
+</div>>
 
 [Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
 
