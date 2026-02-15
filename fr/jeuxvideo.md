@@ -7,7 +7,6 @@ title: "Accueil"
     <h1>L'univers de The Last of Us </h1>
      <a href="/TheLastofUs/en/jeuxvideo.html" style="color: white; text-decoration: none; font-weight: bold;">EN</a>
 </div>
-</div>
 
 [Accueil](index.md) | [Jeux Vidéo](jeuxvideo.md) | [Série](serie.md) | [Personnages](personnages.md) | [Scènes](scenes.md) | [Prix](prix.md)
 
